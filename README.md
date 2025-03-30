@@ -56,4 +56,4 @@ The goal of this project is to simulate spray atomization, droplet breakup, and 
 ├── nasa-cea-input.txt        # Example propellant input file
 └── README.md                 # This file
 
-This project is currently evolving as part of ongoing thesis work. New results and configurations will be uploaded soon.
+
